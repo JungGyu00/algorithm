@@ -7,18 +7,3 @@ def solution(n):
 
 
 print(solution(12))
-
-
-# def solution(n):
-#     answer = 0
-#     i = 1
-#     while True:
-#         if n % i == 0:
-#             answer = (n/i) + i
-#             i += 1
-#         else:
-#             break
-#     return answer
-
-
-# print(solution(12))
